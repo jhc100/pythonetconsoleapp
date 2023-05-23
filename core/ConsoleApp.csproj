@@ -13,7 +13,7 @@
 
   <ItemGroup>
     <Reference Include="Python.Runtime">
-      <HintPath>C:\Python311\Lib\site-packages\pythonnet\runtime\Python.Runtime.dll</HintPath>
+      <HintPath>C:\Users\Luis Estebarra\AppData\Local\Programs\Python\Python39\Lib\site-packages\pythonnet\runtime\Python.Runtime.dll</HintPath>
     </Reference>
   </ItemGroup>
 
